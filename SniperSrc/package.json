@@ -1,0 +1,20 @@
+{
+  "name": "discord-nitro-sniper",
+  "version": "1.0.0",
+  "description": "Discord Nitro Sniper for mithian.xyz!",
+  "main": "Nitro_Sniper.js",
+  "scripts": {
+    "start": "node Nitro_Sniper.js"
+  },
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "console-title": "^1.1.0",
+    "discord.js": "^11.5.1",
+    "node-notifier": "^6.0.0",
+    "request": "^2.88.2"
+  },
+  "engines": {
+    "node": "12.13.1"
+  },
+  "author": "con#1337"
+}
