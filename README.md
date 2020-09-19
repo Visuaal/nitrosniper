@@ -10,6 +10,8 @@
 * Easy to use
 
 ## Usage
+* Click on "SniperSrc" then click on "Clone" and "Download ZIP"
+* Unzip the file and follow the following steps
 * Install the modules, run "RUN_ME_FIRST.bat"
 * Once you've installed the modules, run "RUN_ME_SECOND.bat"
 * Put your token in config.json
